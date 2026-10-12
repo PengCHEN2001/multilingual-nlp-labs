@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archives
+*.zip
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Cache / generated representations
+cache/
+*.npy
+*.npz
+*.pkl
+*.pickle
+
+# Model / Hugging Face cache
+.cache/
+huggingface/
+models/
+
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
